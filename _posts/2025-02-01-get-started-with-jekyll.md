@@ -22,7 +22,7 @@ This blog marks my first step into the world of blogging, and I want to share my
 
 ✅ Full Control – No platform restrictions like [Medium](https://medium.com/) or [Substack](https://substack.com/about); you own your content and customize everything.
 
-Moreover, you just need to know how to write a markdown file for publishing a blog, and I recommend the beginners to use [stackedit](https://stackedit.io/ "markdown editor tool") or [editor md](https://pandao.github.io/editor.md/en.html).
+Moreover, you just need to know how to write a markdown file for publishing a blog. That's interesting!!!
 
 ## Installation
 
